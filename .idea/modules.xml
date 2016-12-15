@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jv-ex.iml" filepath="$PROJECT_DIR$/.idea/modules/jv-ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jv-ex_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jv-ex_main.iml" group="jv-ex" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jv-ex_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jv-ex_test.iml" group="jv-ex" />
+    </modules>
+  </component>
+</project>
